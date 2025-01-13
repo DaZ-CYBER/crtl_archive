@@ -1,0 +1,14 @@
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net8.0\Freeloader.exe
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net8.0\Freeloader.deps.json
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net8.0\Freeloader.runtimeconfig.json
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net8.0\Freeloader.dll
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net8.0\Freeloader.pdb
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\Freeloader.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\Freeloader.AssemblyInfoInputs.cache
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\Freeloader.AssemblyInfo.cs
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\Freeloader.csproj.CoreCompileInputs.cache
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\Freeloader.dll
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\refint\Freeloader.dll
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\Freeloader.pdb
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\Freeloader.genruntimeconfig.cache
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net8.0\ref\Freeloader.dll

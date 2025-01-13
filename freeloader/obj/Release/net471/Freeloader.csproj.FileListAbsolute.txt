@@ -1,0 +1,10 @@
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net471\Freeloader.csproj.AssemblyReference.cache
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net471\Freeloader.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net471\Freeloader.AssemblyInfoInputs.cache
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net471\Freeloader.AssemblyInfo.cs
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net471\Freeloader.csproj.CoreCompileInputs.cache
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net471\Freeloader.exe.config
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net471\Freeloader.exe
+Z:\EDR-bypass\loader\Freeloader\bin\Release\net471\Freeloader.pdb
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net471\Freeloader.exe
+Z:\EDR-bypass\loader\Freeloader\obj\Release\net471\Freeloader.pdb
