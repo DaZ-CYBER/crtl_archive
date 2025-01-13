@@ -1,4 +1,0 @@
-Z:\EDR-bypass\loader\Freeloader\obj\Debug\net8.0\Freeloader.GeneratedMSBuildEditorConfig.editorconfig
-Z:\EDR-bypass\loader\Freeloader\obj\Debug\net8.0\Freeloader.AssemblyInfoInputs.cache
-Z:\EDR-bypass\loader\Freeloader\obj\Debug\net8.0\Freeloader.AssemblyInfo.cs
-Z:\EDR-bypass\loader\Freeloader\obj\Debug\net8.0\Freeloader.csproj.CoreCompileInputs.cache
